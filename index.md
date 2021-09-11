@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## About Marktechpost
 
-You can use the [editor on GitHub](https://github.com/Marktechpost/ai-introductory-course/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Marktechpost, LLC.](https://www.marktechpost.com/) is a California-based Artificial Intelligence Media Platform for the latest updates in machine learning, deep learning, and data science research. Marktechpost’s key focus is on spreading AI Awareness across the globe. Marktechpost has focused on building a bridge for the general public to walk through and learn about different applications of artificial intelligence
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Marktechpost's AI Introductory Course For Beginners
 
-### Markdown
+The Marktechpost AI Introductory Course is a basic Artificial Intelligence (AI) Intro Course comprised of four video lectures. 
+This course will cover what AI is, how it works, and why AI is taking off now.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### About Instructor
 
-```markdown
-Syntax highlighted code block
+Fabio is a data scientist from Italy. He graduated in physics and statistical and actuarial sciences. He is currently working at a well-known Italian insurance company as a data scientist and Non-Life technical provisions evaluator. 
 
-# Header 1
-## Header 2
-### Header 3
+### Lecture Videos
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+[Lecture 1: What is AI?](https://www.youtube.com/watch?v=4HOp5nNNiss&list=PLaU7MWI8yG9WLE8dh6BB5BWaJ10_dngOb&index=2&t=6s)
 
-**Bold** and _Italic_ and `Code` text
+[Lecture 2: What can AI do?](https://www.youtube.com/watch?v=Z28r7kZgQos&list=PLaU7MWI8yG9WLE8dh6BB5BWaJ10_dngOb&index=3&t=1s)
 
-[Link](url) and ![Image](src)
-```
+[Lecture 3: Why Now?](https://www.youtube.com/watch?v=4dwHgzLexng&list=PLaU7MWI8yG9WLE8dh6BB5BWaJ10_dngOb&index=4&t=4s)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Lecture 4: How to do it?](https://www.youtube.com/watch?v=j6Fb9yPOOx4&list=PLaU7MWI8yG9WLE8dh6BB5BWaJ10_dngOb&index=5&t=3s)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Marktechpost/ai-introductory-course/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [Course Page](https://www.youtube.com/playlist?list=PLaU7MWI8yG9WLE8dh6BB5BWaJ10_dngOb) or [contact us](https://www.marktechpost.com/contact/) 
